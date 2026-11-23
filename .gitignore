@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Datasets are not committed, see README
+*.csv
